@@ -1,10 +1,10 @@
 ## Overveiw
 - Test Automation Project for General Shop Android App with Appium 2 written by Java and based on Maven and Cucumber by java
-- Using My Own Test Automation Engine as Testing Framework, Check Engine Details https://github.com/YehiaMetwally95/YehiaEngine
+- Using My Own Test Automation Engine as Testing Framework
 - Using TestNG as the Testing Framework
 - Using Page Object Model Design Pattern in writing Test script and Page actions
--  Auto Scrolling to the Target Element into view (Scroll into Screen or into Swiped Element)
--  Android UI Scrollable Class For very smooth and accurate swiping and without using Touch Actions of (x , y Coordinates).
+- Auto Scrolling to the Target Element into view (Scroll into Screen or into Swiped Element)
+- Android UI Scrollable Class For very smooth and accurate swiping and without using Touch Actions of (x , y Coordinates).
 - Test Data Management such that store All Test data in Json Files and Retrieve the Updated Test Data of Products 
 - Generating Very Detailed Allure Reports with All Scenario Steps
 - Perform Test Execution Locally On Real Android Mobile Devices
@@ -13,6 +13,7 @@
 
 ## Application Under Test
 - General-Store.apk
+- https://github.com/EbrahimSalem1/General-Shop-MobileAutomationProject/blob/master/src/main/resources/apps/General-Store.apk
 
 
 ## Scenario (Task) :-
