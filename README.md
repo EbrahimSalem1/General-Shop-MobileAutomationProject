@@ -19,6 +19,10 @@
 ## Execute the Scenario by Video Recording (Attached) :- 
 https://drive.google.com/file/d/1vyRAuOkfn5lAYdEa0nu0nOYG-FsqzOu5/view?usp=sharing
 
+# Runs E2E Scenario via CI/CD GitHub Actions (Attached) :-
+https://drive.google.com/file/d/1n6lKy-17BH7BvqcDlFlWcVwGld_7ZeWK/view?usp=sharing
+
+
 ## Scenario :-
 - Open the General Store app on an Android device (real or emulator)
 - Select Egypt country from the dropdown list.
