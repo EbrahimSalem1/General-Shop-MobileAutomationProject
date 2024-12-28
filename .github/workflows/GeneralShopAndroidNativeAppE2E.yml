@@ -1,7 +1,10 @@
 name: Runs E2E General Shop Android App Automated UI Tests
 
 on:
- workflow_dispatch:
+  push:
+    branches: [ "master" ]
+  pull_request:
+    branches: [ "master" ]
    
 jobs:
   build:
