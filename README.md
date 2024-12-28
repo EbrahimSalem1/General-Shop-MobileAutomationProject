@@ -16,7 +16,10 @@
 - https://github.com/EbrahimSalem1/General-Shop-MobileAutomationProject/blob/master/src/main/resources/apps/General-Store.apk
 
 
-## Scenario (Task) :-
+## Execute the Scenario by Video Recording (Attached) :- 
+https://drive.google.com/file/d/1vyRAuOkfn5lAYdEa0nu0nOYG-FsqzOu5/view?usp=sharing
+
+## Scenario :-
 - Open the General Store app on an Android device (real or emulator)
 - Select Egypt country from the dropdown list.
 - Enter your name in the text field.
