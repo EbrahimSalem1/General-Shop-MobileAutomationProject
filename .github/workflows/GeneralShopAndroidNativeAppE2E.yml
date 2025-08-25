@@ -1,4 +1,4 @@
-name: Runs E2E Shop Android App Automated UI Tests
+name: Runs E2E Mobile Shop Android App Automated UI Tests
 
 on:
   push:
